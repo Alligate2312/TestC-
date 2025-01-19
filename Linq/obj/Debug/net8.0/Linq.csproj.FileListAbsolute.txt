@@ -1,0 +1,14 @@
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.exe
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.deps.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.runtimeconfig.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\bin\Debug\net8.0\Linq.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfoInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.AssemblyInfo.cs
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.csproj.CoreCompileInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\refint\Linq.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\Linq.genruntimeconfig.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\Linq\obj\Debug\net8.0\ref\Linq.dll

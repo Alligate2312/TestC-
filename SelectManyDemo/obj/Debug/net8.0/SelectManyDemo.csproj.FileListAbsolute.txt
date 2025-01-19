@@ -1,0 +1,14 @@
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\bin\Debug\net8.0\SelectManyDemo.exe
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\bin\Debug\net8.0\SelectManyDemo.deps.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\bin\Debug\net8.0\SelectManyDemo.runtimeconfig.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\bin\Debug\net8.0\SelectManyDemo.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\bin\Debug\net8.0\SelectManyDemo.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.AssemblyInfoInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.AssemblyInfo.cs
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.csproj.CoreCompileInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\refint\SelectManyDemo.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\SelectManyDemo.genruntimeconfig.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\SelectManyDemo\obj\Debug\net8.0\ref\SelectManyDemo.dll

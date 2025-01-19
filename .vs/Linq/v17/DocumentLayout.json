@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\fruitshop\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3F325-67E2-4151-80EE-A2B7687904A8}|Assignment\\Assignment.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3F325-67E2-4151-80EE-A2B7687904A8}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\fruitshop\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\fruitshop\\fruitmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\fruitmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|e:\\h.anh\\extraclass\\elca\\dotnet\\source\\repos\\linq\\fruitshop\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78213F9-84AA-4A69-B1B0-2C643EF5F653}|FruitShop\\FruitShop.csproj|solutionrelative:fruitshop\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\Assignment\\Program.cs",
+              "RelativeToolTip": "Assignment\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:16:37.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderManagement.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\OrderManagement.cs",
+              "RelativeDocumentMoniker": "FruitShop\\OrderManagement.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\OrderManagement.cs",
+              "RelativeToolTip": "FruitShop\\OrderManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:59:27.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FruitManagement.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\FruitManagement.cs",
+              "RelativeDocumentMoniker": "FruitShop\\FruitManagement.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\FruitManagement.cs",
+              "RelativeToolTip": "FruitShop\\FruitManagement.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:22:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Order.cs",
+              "RelativeDocumentMoniker": "FruitShop\\Order.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Order.cs",
+              "RelativeToolTip": "FruitShop\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:18:13.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Fruit.cs",
+              "RelativeDocumentMoniker": "FruitShop\\Fruit.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Fruit.cs",
+              "RelativeToolTip": "FruitShop\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:05:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Program.cs",
+              "RelativeDocumentMoniker": "FruitShop\\Program.cs",
+              "ToolTip": "E:\\H.Anh\\ExtraClass\\ELCA\\dotnet\\source\\repos\\Linq\\FruitShop\\Program.cs*",
+              "RelativeToolTip": "FruitShop\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAApwDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:04:29.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

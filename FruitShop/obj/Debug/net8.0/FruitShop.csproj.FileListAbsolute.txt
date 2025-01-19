@@ -1,0 +1,14 @@
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\bin\Debug\net8.0\FruitShop.exe
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\bin\Debug\net8.0\FruitShop.deps.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\bin\Debug\net8.0\FruitShop.runtimeconfig.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\bin\Debug\net8.0\FruitShop.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\bin\Debug\net8.0\FruitShop.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.AssemblyInfoInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.AssemblyInfo.cs
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.csproj.CoreCompileInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\refint\FruitShop.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\FruitShop.genruntimeconfig.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\Linq\FruitShop\obj\Debug\net8.0\ref\FruitShop.dll
