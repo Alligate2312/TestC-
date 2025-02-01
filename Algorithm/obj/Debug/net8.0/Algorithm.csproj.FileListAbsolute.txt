@@ -1,0 +1,15 @@
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\bin\Debug\net8.0\Algorithm.exe
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\bin\Debug\net8.0\Algorithm.deps.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\bin\Debug\net8.0\Algorithm.runtimeconfig.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\bin\Debug\net8.0\Algorithm.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\bin\Debug\net8.0\Algorithm.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfoInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.AssemblyInfo.cs
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.csproj.CoreCompileInputs.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.sourcelink.json
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\refint\Algorithm.dll
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.pdb
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\Algorithm.genruntimeconfig.cache
+E:\H.Anh\ExtraClass\ELCA\dotnet\source\repos\TestC-\Algorithm\obj\Debug\net8.0\ref\Algorithm.dll
